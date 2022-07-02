@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+header {
+  font: 20px 'Roboto', sans-serif;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+.block {
+  border: 2px solid grey;
+  background-color: lightgreen;
+  padding: 2px;
+  margin: 5px;
+}
+
+.table_time {
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.table_time tr td {
+  text-align: left;
+  padding-left: 15px;
+}
+
+.table_course {
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.table_course td {
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.table_course th {
+  border-bottom: 1px solid black;
+}
+
+.table_contact {
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.table_contact td {
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.table_info {
+  align-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.table_info td {
+  text-align: left;
+  padding-left: 15px;
+  padding-right: 15px;
+}
